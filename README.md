@@ -1,8 +1,6 @@
 ## Tommy's APP STORE
 
-You can use the [editor on GitHub](https://github.com/coinext/watch4.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+직접 개발한 여러 어플앱들을 공개하는 사이트입니다. 모두 무료이니 마음껏 사용하세요.
 
 ### Markdown
 
