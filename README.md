@@ -2,7 +2,7 @@
 
 직접 개발한 여러 어플앱들을 공개하는 사이트입니다. 모두 무료이니 마음껏 사용하세요.
 
-### Markdown
+### 주식 시세 및 알림앱 (어플명 : Stockwatch)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
